@@ -1,39 +1,5 @@
-let express = require('express');
+import express from "express";
 let app = express();
+console.log("Hello World");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- module.exports = app;
+export default app;
